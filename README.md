@@ -1,8 +1,14 @@
 # bayesian-models
-simple bayesian nonlinear models for golf data from gelman.
-data consists of distance, successes and trials for 19 distances from a hole in a game of golf.
-(probability of success at each distance is calculated p = y/m & turned into an indicator (1 if p>=.5, 0 if p<.5)
 
+# data
+Simple bayesian nonlinear models for golf data from gelman.
+data consists of distance, successes and trials 
+for 19 distances from a hole in a game of golf.
+
+(probability of success at each distance is calculated 
+p = y/m & turned into an indicator (1 if p>=.5, 0 if p<.5)
+
+# models
 Model 1 (Gelman 19.4.2)
 nonlinear with binomial likelihood to predict success from distance
 
