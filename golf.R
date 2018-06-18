@@ -1,4 +1,4 @@
-#input golf putting data from Gelman 19.4.2
+#input golf putting data from Gelman 19.4.2 & 21.7.5
 
 Distance <- 2:20
 mi <- c(1443, 694, 455, 353, 272, 256, 240, 217, 200, 237, 202, 192, 174, 167, 201, 194, 191, 147, 152)
